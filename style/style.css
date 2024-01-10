@@ -1,0 +1,95 @@
+*{
+    text-decoration: none;
+    list-style: none;
+
+}
+.container{
+    max-width: 1440px;
+}
+.boshi{
+    width: 257px;  
+}
+.disk{
+    display: flex;
+    justify-content: space-around;
+}
+.orab{
+display: flex;
+gap: 30px;
+}
+.link{
+    color: #000;
+    text-shadow: 0px 7px 4px rgba(55, 26, 171, 0.60);    
+}
+.img{
+width: 377px;
+height: 626;
+}
+ .div{
+display: flex;
+flex-wrap: wrap;
+gap: 119px;
+} 
+.div1{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 8px 24px 0px #2FC63C;
+}
+.div2{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.20);
+}
+.div3{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 1.95px 1.95px 2.6px 0px rgba(0, 0, 0, 0.15);
+
+}
+.div4{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+}
+.div5{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.67);
+}
+.div6{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 3px 8px 0px #F00;
+}
+.div7{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 8px 24px 0px rgba(0, 127, 253, 0.92);
+
+}
+.div8{
+    width: 204px;
+    height: 184px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 1.95px 1.95px 2.6px 0px rgba(0, 0, 0, 0.15);
+
+}
+.orabn1{
+    display: flex;
+    gap: 30px;
+}
